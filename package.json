@@ -1,0 +1,30 @@
+{
+  "name": "short.ly",
+  "version": "1.0.0",
+  "description": "A url shortener application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harshsngh07/Short.ly.git"
+  },
+  "author": "Harsh Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Harshsngh07/Short.ly/issues"
+  },
+  "homepage": "https://github.com/Harshsngh07/Short.ly#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.4",
+    "shortid": "^2.2.15",
+    "valid-url": "^1.0.9"
+  }
+}
