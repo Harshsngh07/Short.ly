@@ -1,0 +1,6 @@
+POST http://localhost:3000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl" : "https://www.amazon.in/PS4-Last-Us-Part-II/dp/B07YQ8JMSH/ref=sxin_7?ascsubtag=amzn1.osa.0d8ea727-4944-4c14-b62c-7e65f78c60bb.A21TJRUUN4KGV.en_IN&creativeASIN=B07YQ8JMSH&cv_ct_cx=ps4&cv_ct_id=amzn1.osa.0d8ea727-4944-4c14-b62c-7e65f78c60bb.A21TJRUUN4KGV.en_IN&cv_ct_pg=search&cv_ct_wn=osp-single-source&dchild=1&keywords=ps4&linkCode=oas&pd_rd_i=B07YQ8JMSH&pd_rd_r=a659f6fb-1ca9-4d68-b7e8-fb544cfd5c4a&pd_rd_w=D5T3H&pd_rd_wg=Gi0kY&pf_rd_p=794df393-f11f-43b4-9082-6c10bfc36604&pf_rd_r=18YBMAK34WFPX4V6NYWM&qid=1599681157&sr=1-2-32235bf8-c8dc-423d-b49a-58af94d8b862&tag=ndtvgadgetsosp-21"
+}
