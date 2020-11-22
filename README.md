@@ -1,2 +1,2 @@
 # Short.ly
-An application which shortens the given provided url
+An application which shortens the given url
